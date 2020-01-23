@@ -39,15 +39,15 @@ const Header = props => {
       <Helmet>
         <body
           className={
-            (userTheme || defaultTheme) === 'light'
-              ? 'light-theme'
-              : 'dark-theme'
+            (userTheme || defaultTheme) === 'light' ?
+              'light-theme' :
+              'dark-theme'
           }
         />
       </Helmet>
       <header className={style.header}>
         <div className={style.inner}>
-          <Link to="/">
+          <Link to='/'>
             <div className={style.logo}>
               {siteLogo.src ? (
                 <img src={siteLogo.src} alt={siteLogo.alt} />

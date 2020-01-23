@@ -69,6 +69,7 @@ Tags.propTypes = {
   pageContext: PropTypes.shape({
     nextPagePath: PropTypes.string,
     previousPagePath: PropTypes.string,
+    tag: PropTypes.string,
   }),
 }
 
