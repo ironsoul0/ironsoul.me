@@ -12,7 +12,6 @@ const About = () => (
     <SEO />
     <div className={postStyle.post}>
       <h1>About</h1>
-      {/* <Img src={me} /> */}
       <div className={style.card}>
         <img
           src={me} 
@@ -20,7 +19,7 @@ const About = () => (
         />
         <div className={style.card__desc}>
           <p>Temirzhan</p>
-          <p>19 y.o. 7sk fl3Xer</p>
+          <p>19 y.o. fleXer</p>
         </div>
       </div>
       <p>Wassup, bro?</p>
