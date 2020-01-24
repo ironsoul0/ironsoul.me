@@ -1,17 +1,29 @@
 import React from 'react'
+import me from '../images/me.jpeg'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
+import postStyle from '../styles/post.module.css'
+import style from '../styles/about.module.css'
+
 const About = () => (
   <Layout>
     <SEO />
-    <div style={{textAlign: 'left', marginBottom: '40px'}}>
+    <div className={postStyle.post}>
       <h1>About</h1>
-      <p>
-        My name is Temirzhan. 
-        I am a 19 years-old rapper from Detroit loving to hustle and chill w/ my dudes.
-      </p>
+      {/* <Img src={me} /> */}
+      <div className={style.card}>
+        <img
+          src={me} 
+          alt="Me"
+        />
+        <div className={style.card__desc}>
+          <p>Temirzhan</p>
+          <p>19 y.o. 7sk fl3Xer</p>
+        </div>
+      </div>
+      <p>Wassup, bro?</p>
       <p>
         This is the blog created for expressing my own thoughts on different things.
         I will mainly write for my friends, brothers and family so that 
@@ -55,6 +67,14 @@ const About = () => (
             target="_blank"
             rel="noopener noreferrer"
           >Telegram
+          </a> 
+        </li>
+        <li>
+          <a 
+            href="https://www.instagram.com/ironsoul0/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Instagram
           </a> 
         </li>
       </ul>

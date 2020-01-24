@@ -1,0 +1,22 @@
+.card {
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+.card img {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.card__desc {
+  margin-left: 15px;
+  font-size: 15px;
+}
+
+.card__desc p {
+  margin: 0;
+  padding: 0;
+}
