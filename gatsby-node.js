@@ -10,6 +10,8 @@ const pageTemplate = path.resolve(`./src/templates/page.js`)
 const indexTemplate = path.resolve(`./src/templates/index.js`)
 const tagsTemplate = path.resolve(`./src/templates/tags.js`)
 
+const about = path.resolve(`./src/pages/about.js`)
+
 exports.createPages = ({ actions, graphql, getNodes }) => {
   const { createPage } = actions
   const allNodes = getNodes()
@@ -66,7 +68,7 @@ exports.createPages = ({ actions, graphql, getNodes }) => {
       items: posts,
       component: indexTemplate,
       itemsPerPage: siteMetadata.postsPerPage,
-      pathPrefix: '/posts',
+      pathPrefix: '/',
     })
 
     // Create each markdown page and post
@@ -87,7 +89,12 @@ exports.createPages = ({ actions, graphql, getNodes }) => {
           previous: isPreviousSameType ? previous : null,
         },
       })
-    }, sortedPages)
+    }, sortedPages) 
+
+    createPage({
+      path: '/about',
+      component: about,
+    })
 
     // Create tag pages
     const tags = filter(

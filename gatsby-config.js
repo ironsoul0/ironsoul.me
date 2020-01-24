@@ -7,15 +7,15 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `ironsoul - A blog by Temirzhan Yussupov`,
+    description: `Just in case I have something to say.`,
     copyrights: '',
     author: `@panr`,
     logo: {
       src: '',
       alt: '',
     },
-    logoText: 'hello friend',
+    logoText: 'ironsoul',
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 2,
@@ -26,13 +26,13 @@ module.exports = {
         path: '/about',
       },
       {
-        title: 'Showcase',
-        path: '/showcase',
+        title: 'Blog',
+        path: '/',
       },
-      {
-        title: 'Example',
-        path: '/example',
-      },
+      // {
+      //   title: 'Github',
+      //   path: 'https://github.com/ironsoul0',
+      // },
     ],
   },
   plugins: [
