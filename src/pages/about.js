@@ -76,6 +76,14 @@ const About = () => (
           >Instagram
           </a> 
         </li>
+        <li>
+          <a 
+            href="https://codeforces.com/profile/ironsoul"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Codeforces
+          </a> 
+        </li>
       </ul>
       <p>
         Enjoy!
