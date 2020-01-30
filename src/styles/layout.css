@@ -2,6 +2,10 @@
 @import "./variables.css";
 @import "./prism.css";
 
+.image-desc {
+  margin-bottom: 40px;
+}
+
 html {
   box-sizing: border-box;
 }
