@@ -16,7 +16,7 @@ module.exports = {
       alt: '',
     },
     logoText: 'ironsoul',
-    defaultTheme: 'dark',
+    defaultTheme: 'light',
     postsPerPage: 5,
     showMenuItems: 2,
     menuMoreText: 'Show more',
