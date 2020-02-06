@@ -18,7 +18,6 @@ const SEO = ({ description, lang, meta, keywords, title }) => {
   const {
     title: siteTitle,
     description: siteDescription,
-    author,
   } = data.site.siteMetadata
   const metaTitle = title || siteTitle
   const metaDescription = description || siteDescription
@@ -46,22 +45,6 @@ const SEO = ({ description, lang, meta, keywords, title }) => {
         {
           property: `og:type`,
           content: `website`,
-        },
-        {
-          name: `twitter:card`,
-          content: `summary`,
-        },
-        {
-          name: `twitter:title`,
-          content: metaTitle,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
-        },
-        {
-          name: `twitter:creator`,
-          content: author,
         },
       ]
         .concat(
