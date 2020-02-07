@@ -26,4 +26,4 @@ This one was recommended to me by my friend Akezhan when we spoke about books in
 
 I read about 40% of it and so far the book is interesting. Just interesting, it is not amazing or mind-blowing. Sometimes I feel the same things as the main hero and that makes me think a lot about my life.
 
-I thought like I would write in more interesting way but that's it for now 😂
+I feel a bit upset that this book was written by the person who was ~30 years old at the moment of writing. Is this really possible to describe feelings of 15 y. o. boy when you are 30? I do not know but I hope yes.
