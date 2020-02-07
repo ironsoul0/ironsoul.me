@@ -4,7 +4,7 @@ path: "/books"
 date: "2020-02-06"
 coverImage: "../images/books/books.jpg"
 author: "ironsoul"
-excerpt: "Some books I have read and my thoughts on them."
+excerpt: "Some books I have read in 2020 and my thoughts on them."
 tags: ["Life", "Development"]
 ---
 
