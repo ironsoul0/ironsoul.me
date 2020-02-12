@@ -8,7 +8,7 @@ excerpt: "Visual analysis of one of the most popular music videos of 21st centur
 tags: ["SHSS240"]
 ---
 
-Today I am going to analyze the _“a lot”_ video clip by 21 Savage. It required me to spend a lot of time to make a research to fully understand the message of 21 Savage and now I want to share my thoughts on this message with you. Please note that I will mainly focus on the part of Joseph because the part of J. Cole requires to do an analysis of the life of another person and that would require a lot of extra work.
+Today I am going to analyze the _“a lot”_ video clip by 21 Savage. It required me to spend a lot of time to make a research to fully understand the message of 21 Savage and now I want to share my thoughts on this with you. Please note that I will mainly focus on the part of Joseph (a.k.a. 21 Savage) because the part of J. Cole requires to do an analysis of the life of another person and that would require a lot of extra work.
 
 Diving into an analysis of multimodal resource is not an easy thing to do and I decided to split the analysis into two big parts to make it more clear for my audience. Firstly, we are going to look at **iconography** and **form** used in the clip and then will switch to the semiotics of _“a lot”_. In both parts, there will be a focus on how certain techniques contribute to the overall purpose and persuasion of the text.
 
@@ -18,7 +18,7 @@ Some of you might be not familiar with the term iconography. Let me state the de
 
 > _Iconology helps us to study the subject-matter of works of art at each of the levels._
 
-In simple words, iconography studies _“what is being shown”_ in a particular text while form operates as its logical continuation and studies _“the manner in which it is shown”_. These two are closely connected with each other and this is the reason why I decided to not separate them in my analysis.
+In simple words, **iconography** studies _“what is being shown”_ in a particular text while **form** operates as its logical continuation and studies _“the manner in which it is shown”_. These two are closely connected with each other and this is the reason why I decided to not separate them in my analysis.
 
 According to Panofsky, there are three levels the person should explore in order to fully discover iconography and form behind a text. These are **primary**, **secondary** and **intrinsic** levels. I will follow these guidelines created by Panofsky to make my analysis more organized and simple to read.
 
@@ -83,22 +83,28 @@ Figure 6. Brother with a gun to his head
 
 We now will focus on the last and deepest level of iconography - intrinsic level. Panofsky described this one as _“unconscious process”_ of looking at things in a text. For him, it is the _“ultimate goal”_ of iconology because it reveals the message of an author of the text. Let’s try to penetrate _“a lot”_ on this level of iconology. I should probably note that everything I am going to say further is my personal opinion and it obviously could be different for any of you. There is no writing by 21 Savage where he describes the message of his song. This message is determined independently by each of us and we do it unconsciously. 
 
-I believe that Joseph’s message in _“a lot”_ is all about supporting the idea of _“i am > i was”_. He shows misfortunes made to him and his family members and underlines the wealth in which they live now. However, he does not forget the fact that money brings problems too and that understanding makes him better than he was in the past.
-
+I believe that Joseph’s message in _“a lot”_ is all about supporting the idea of _“i am > i was”_. He shows misfortunes happened with him and his family members and underlines the wealth in which they live now. However, he does not forget the fact that money brings problems too and that understanding makes him better than he was in the past.
+ 
 ## Semiotics
 
 Please let me introduce you to semiotics by citing this [video](https://www.youtube.com/watch?v=R7VA95JdbMQ).
 
-> _The field of study that explores how humans and other organisms derive meaning from the world around them._
+> _**Semiotics** - the field of study that explores how humans and other organisms derive meaning from the world around them._
 
-In other words, the purpose of semiotics is to analyze signs and derive their implied meanings. There are three main types of signs as semiotics suggests. These are icons, symbols and indices. 
+In other words, the purpose of semiotics is to analyze signs and derive their implied meanings. There are three main types of **signs** as semiotics suggests. These are **icons**, **symbols** and **indices**. 
 
-For this analysis, I will mainly focus on indices because they are much more important for delivering the message of the video and are used very frequently. If we keep it short, indices are the type of signs that are connected with the object they represent in a logical way. 
+For this analysis, I will mainly focus on one specifix **index** because I believe it is the most important sign for delivering the message of the video due to its non-obviousness and deepness. If you do know what an index is, **indices** are the type of signs that are connected with the object they represent in a _logical_ way. 
 
-For example, have a look at figure 7. We can see a funeral coffin but what does it represent? I personally connect this funeral to the tragedy that happened to 21 Savage (death of his younger brother).
+For example, have a look at figure 7. We can see a funeral coffin but what does it represent? If we treat it as an **icon**, it would represent the coffin itself but what if there is a deeper meaning behind it?
+
+Many people argue but I believe that this scene is shown to viewers in such a manner so the room looks like a place which is full of _grief_. Pay attention to the light: there is a darkness in all 4 directions. If we look at a man standing in front of the coffin, he holds his hand near to his head and this indicates an insufferable loss. In this case, the _white coffin_ acts as a **signifier** of _irreversibility_ which is **signified**.
 
 ![Figure 6](../images/savage/fig7.png)
 
 <center class="image-desc">
 Figure 7. Funeral coffin acting as an index
 </center>
+
+## Final thoughts
+
+_"a lot"_ by 21 Savage is a very deep and meaningful video clip and everyone can treat it as he/she wants. In this blog, I tried to analyze it from my perspective but it is up to you to agree or disagree with my arguments.
