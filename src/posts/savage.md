@@ -4,7 +4,7 @@ path: "/savage"
 date: "2020-02-11"
 coverImage: "../images/savage/savage.jpg"
 author: "ironsoul"
-excerpt: "Visual analysis of one of the most popular music videos of 21st century."
+excerpt: "Visual analysis of one of the most popular music video clips of 21st century."
 tags: ["SHSS240"]
 ---
 
