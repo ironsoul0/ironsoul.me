@@ -87,23 +87,29 @@ I believe that Joseph’s message in _“a lot”_ is all about supporting the i
  
 ## Semiotics
 
+After looking at iconography and form, let's analyze our video in terms of another important factor which is called **semiotics**.
+
 Please let me introduce you to semiotics by citing this [video](https://www.youtube.com/watch?v=R7VA95JdbMQ).
 
 > _**Semiotics** - the field of study that explores how humans and other organisms derive meaning from the world around them._
 
 In other words, the purpose of semiotics is to analyze signs and derive their implied meanings. There are three main types of **signs** as semiotics suggests. These are **icons**, **symbols** and **indices**. 
 
-For this analysis, I will mainly focus on one specifix **index** because I believe it is the most important sign for delivering the message of the video due to its non-obviousness and deepness. If you do know what an index is, **indices** are the type of signs that are connected with the object they represent in a _logical_ way. 
+For this analysis, I will mainly focus on one specifix **index** because I believe it is the most important sign for delivering the message of the video due to its non-obviousness and deepness. If you do not know what an index is, **indices** are the type of signs that are connected with the object they represent in a _logical_ way. 
 
-For example, have a look at figure 7. We can see a funeral coffin but what does it represent? If we treat it as an **icon**, it would represent the coffin itself but what if there is a deeper meaning behind it?
+For example, have a look at figure 7. We can see a funeral coffin but what does it represent? If we treat it as an **icon**, it would represent the coffin itself but what if there is a deeper meaning behind it? What I mean is that the coffin and the room in which it is located represents something indirectly and it is our mission to figure out what exactly it represents.
 
-Many people argue but I believe that this scene is shown to viewers in such a manner so the room looks like a place which is full of _grief_. Pay attention to the light: there is a darkness in all 4 directions. If we look at a man standing in front of the coffin, he holds his hand near to his head and this indicates an insufferable loss. In this case, the _white coffin_ acts as a **signifier** of _irreversibility_ which is **signified**.
+Many people argue but I believe that this scene is shown to viewers in such a manner so the room looks like a place which is full of _grief_. Pay attention to the light: there is a darkness in all 4 directions. If we look at a man standing in front of the coffin, he holds his hand near to his head and this indicates an insufferable loss. In this case, the _white coffin_ acts as a **signifier** of _irreversibility_ which is **signified**. That actually makes us think about the death of the brother of 21 Savage and this scene is very likely to be created in his memory.
 
 ![Figure 6](../images/savage/fig7.png)
 
 <center class="image-desc">
 Figure 7. Funeral coffin acting as an index
 </center>
+
+There are of course a lot of other signs in the video but analyzing them will not help us much in understanding the overall **purpose** of the clip. I made an example of the coffin to introduce you to the concepts of **signifier** and **signified**.
+
+As you see, semiotics is also very helpful in terms of analyzing multimodal texts but it is essential to pick appropriate signs which are directly connected to the purpose.
 
 ## Final thoughts
 
