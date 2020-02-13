@@ -113,4 +113,4 @@ As you see, semiotics is also very helpful in terms of analyzing multimodal text
 
 ## Final thoughts
 
-_"a lot"_ by 21 Savage is a very deep and meaningful video clip and everyone can treat it as he/she wants. In this blog, I tried to analyze it from my perspective but it is up to you to agree or disagree with my arguments.
+This was an example of visual analysis of the multimodal text by looking at iconography, form and semiotics. These three concepts serve as powerful tools for retrieving the purpose of any multimodal resource and I hope I was successful in introducing them to you by analyzing _"a lot"_ by 21 Savage.
