@@ -32,4 +32,16 @@ I feel a bit upset that this book was written by the person who was ~30 years ol
 
 I am really about to end this book but I do not have a feeling that I got the idea or message of the author. Overall, the story is very interesting and it was pretty joyful to get through all this journey with Charlie but I am a bit worried that I did not get the message. But who knows, maybe there is no message at all or I hope I will catch it when I will make it to the end.
 
-Cheers.
+**14.01.2020**
+
+Finally completed reading this book. I reread the end three times and it feels **tough** because it still feels like I do not get the idea.
+
+There are really heartwarming moments like when Bill said that Charlie is _"one of the most gifted people I've ever known"_ or when Charlie and his friends _"feel infinite"_ while riding through the tunnel. The entire story is great but I think that I did not get some points. 
+
+For example, I did not really get the idea of _"doing things"_ mentioned by Sam and her statement that _"you're not even there sometimes"_.
+
+Anyway, I would be happy if you read this book and let us have a discussion about it. Once you read it, you will know how I chose the next book to read.
+
+## To Kill a Mockingbird
+
+Coming soon..
