@@ -9,7 +9,7 @@ import style from '../styles/about.module.css'
 
 const About = () => (
   <Layout>
-    <SEO />
+    <SEO title="About" description="About me" />
     <div className={postStyle.post}>
       <h1>About</h1>
       <div className={style.card}>
