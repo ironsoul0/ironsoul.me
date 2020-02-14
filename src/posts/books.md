@@ -5,7 +5,7 @@ date: "2020-02-06"
 coverImage: "../images/books/books.jpg"
 author: "ironsoul"
 excerpt: "Some books I have read in 2020 and my thoughts on them."
-tags: ["Life", "Development"]
+tags: ["life"]
 ---
 
 My mom once told me that I have to read more. And then I watched a [video](https://www.youtube.com/watch?v=AYOZpDg6Oj0) of John Fish where he says that he read 100 books in 100 weeks. Crazy boy. This is how I decided to give it a try.

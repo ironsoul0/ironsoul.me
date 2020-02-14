@@ -5,7 +5,7 @@ date: "2020-01-30"
 coverImage: "../images/analysis/cover.jpg"
 author: "ironsoul"
 excerpt: "A professional dive into how Apple affects its intended audience by using multhimodal rhetoric."
-tags: ["SHSS240"]
+tags: ["shss240"]
 ---
 
 ## Intro

@@ -1,10 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
-import SEO from '../components/seo'
+
 import Layout from '../components/layout'
 import Post from '../components/post'
 import Navigation from '../components/navigation'
+import SEO from '../components/seo'
 
 import '../styles/layout.css'
 
@@ -18,7 +19,7 @@ const Tags = ({
 
   return (
     <>
-      <SEO />
+      <SEO title={`#${tag}`} description={`#${tag}`} />
       <Layout>
         <div className="infoBanner">
           Posts with tag: <span>#{tag}</span>

@@ -5,7 +5,7 @@ date: "2020-02-11"
 coverImage: "../images/savage/savage.jpg"
 author: "ironsoul"
 excerpt: "Visual analysis of one of the most popular music video clips of 21st century."
-tags: ["SHSS240"]
+tags: ["shss240"]
 ---
 
 Today I am going to analyze the _“a lot”_ video clip by 21 Savage. It required me to spend a lot of time to make a research to fully understand the message of 21 Savage and now I want to share my thoughts on this with you. Please note that I will mainly focus on the part of Joseph (a.k.a. 21 Savage) because the part of J. Cole requires to do an analysis of the life of another person and that would require a lot of extra work.
