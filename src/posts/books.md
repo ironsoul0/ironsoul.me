@@ -1,7 +1,7 @@
 ---
 title: "Books"
 path: "/books"
-date: "2020-02-06"
+date: "2020-02-17"
 coverImage: "../images/books/books.jpg"
 author: "ironsoul"
 excerpt: "Some books I have read in 2020 and my thoughts on them."
@@ -44,4 +44,12 @@ Anyway, I would be happy if you read this book and let us have a discussion abou
 
 ## To Kill a Mockingbird
 
-Coming soon..
+**17.01.2020** 
+
+F*cking hard to read. Tried to understand the first two pages but no luck. I am not ready for such complex novels.
+
+# The Alchemist
+
+**17.01.2020**
+
+My classmates are saying we read this one on our literature class but I guess I did not. Hope it is not late yet.
