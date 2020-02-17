@@ -28,11 +28,11 @@ I read about 40% of it and so far the book is interesting. Just interesting, it 
 
 I feel a bit upset that this book was written by the person who was ~30 years old at the moment of writing. Is this really possible to describe feelings of 15 y. o. boy when you are 30? I do not know but I hope yes.
 
-**13.01.2020**
+**13.02.2020**
 
 I am really about to end this book but I do not have a feeling that I got the idea or message of the author. Overall, the story is very interesting and it was pretty joyful to get through all this journey with Charlie but I am a bit worried that I did not get the message. But who knows, maybe there is no message at all or I hope I will catch it when I will make it to the end.
 
-**14.01.2020**
+**14.02.2020**
 
 Finally completed reading this book. I reread the end three times and it feels **tough** because it still feels like I do not get the idea.
 
@@ -44,12 +44,12 @@ Anyway, I would be happy if you read this book and let us have a discussion abou
 
 ## To Kill a Mockingbird
 
-**17.01.2020** 
+**17.02.2020** 
 
 F*cking hard to read. Tried to understand the first two pages but no luck. I am not ready for such complex novels.
 
 ## The Alchemist
 
-**17.01.2020**
+**17.02.2020**
 
 My classmates are saying we read this one on our literature class but I guess I did not. Hope it is not late yet.
