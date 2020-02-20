@@ -53,3 +53,13 @@ F*cking hard to read. Tried to understand the first two pages but no luck. I am 
 **17.02.2020**
 
 My classmates are saying we read this one on our literature class but I guess I did not. Hope it is not late yet.
+
+**20.02.2020**
+
+It pissed me off that the author put spoiler in a foreword of the book. He basically said what will happen in the end. 
+
+I read about 10 pages so far and there are some quotes I found interesting.
+
+> _And he knew that shepherds, like seamen and like traveling salesmen, always found a town where there was someone who could make them forget the joys of carefree wandering.
+
+> It's the possibility of having a dream come true that makes life interesting.
