@@ -60,6 +60,6 @@ It pissed me off that the author put spoiler in a foreword of the book. He basic
 
 I read about 10 pages so far and there are some quotes I found interesting.
 
-> _And he knew that shepherds, like seamen and like traveling salesmen, always found a town where there was someone who could make them forget the joys of carefree wandering.
+> _And he knew that shepherds, like seamen and like traveling salesmen, always found a town where there was someone who could make them forget the joys of carefree wandering._
 
-> It's the possibility of having a dream come true that makes life interesting.
+> _It's the possibility of having a dream come true that makes life interesting._
