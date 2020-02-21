@@ -8,8 +8,7 @@ import Post from '../components/post'
 
 const BlogPostTemplate = ({ data, pageContext }) => {
   const {
-    frontmatter: { title, date, path, author, coverImage, excerpt, tags },
-    excerpt: autoExcerpt,
+    frontmatter: { title, date, path, author, coverImage, tags },
     id,
     html,
   } = data.markdownRemark
@@ -17,7 +16,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <SEO title={title} description={excerpt || autoExcerpt} />
+      <SEO title={title} />
       <Post
         key={id}
         title={title}
