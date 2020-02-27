@@ -87,6 +87,7 @@ a {
 
 img {
   display: block;
+  max-width: 100%;
 
   &.left {
     margin-right: auto;
