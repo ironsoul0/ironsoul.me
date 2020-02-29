@@ -4,19 +4,19 @@ path: "/p2p"
 date: "2020-02-27"
 coverImage: "../images/p2p/cover.jpg"
 author: "ironsoul"
-excerpt: "Analysis of the infographics created by my classmate Shahizada."
+excerpt: "Analysis of the infographic created by my classmate Shahizada."
 tags: ["shss240"]
 ---
 
 ## Intro
 
-Today I am going to analyze the infographics created by my admirable group mate Shahizada with whom I am currently taking my SHSS240 class. 
+Today I am going to analyze the infographic created by my admirable group mate Shahizada with whom I am currently taking my SHSS240 class. 
 
 Please visit this [link](https://www.ironsoul.me/p2p.pdf) to have a look at the work. Try to analyze it on your own before reading my analysis.
 
 The design shows viewers which places Kazakhstan take according to 6 different measurement indices. By the first look, the design is very clear, understandable and has a high quality. In order to analyze it further, I am going to look at some Universal Principles of Design which we have covered in our classes. Besides suggesting improvements and noting good parts, I will try to draw connections between a certain principle and **iconography**, **form** and **semiotics**. If you are not familiar with these terms, please read my [previous blog](https://www.ironsoul.me/savage) where I explain each of the terms in detail.
 
-In my humble opinion, there are some principles on which I can give some advice to my classmate. These are **framing**, **proximity** and **alignment**. Let’s now iterate through each of them and see how well today’s infographics match them.
+In my humble opinion, there are some principles on which I can give some advice to my classmate. These are **framing**, **proximity** and **alignment**. Let’s now iterate through each of them and see how well today’s infographic match them.
 
 ## Framing
 
@@ -26,7 +26,7 @@ Let me firstly state the definition of framing so you have a basic understanding
 
 If you are familiar with form and iconography, framing is actually all about **form**. This is _“the manner”_ in which information is presented. Here we touch on things like the use of images, words and overall context to manipulate the audience.
 
-Regarding the work of Shahizada, I believe that her work lacks emphasizing what she tries to say. Does the work emphasize positive or negative? Maybe it takes a neutral part but the phrase _“Think about the future of our country”_ does not let me think this way. In my opinion, this phrase drastically affects how the audience derives meaning from the infographics. However, this phrase is not supported by any image or another text stating for example that there is something bad with our country and we should think about it. 
+Regarding the work of Shahizada, I believe that her work lacks emphasizing what she tries to say. Does the work emphasize positive or negative? Maybe it takes a neutral part but the phrase _“Think about the future of our country”_ does not let me think this way. In my opinion, this phrase drastically affects how the audience derives meaning from the infographic. However, this phrase is not supported by any image or another text stating for example that there is something bad with our country and we should think about it. 
 
 Information about Kazakhstan taking places in some of the indices seems as just informational thing but not something that will make us think about future our country. I would recommend to get rid of the phrase in the end or add some more negative entourage to some of the boxes. 
 
@@ -52,16 +52,16 @@ However, I still would suggest increasing the distance between cards block, head
 ![Figure 2](../images/p2p/fig3.png)
 
 <center class="image-desc">
-Figure 2. The infographics with blocks highlighted
+Figure 2. The infographic with blocks highlighted
 </center>
 
 ## Alignment
 
 > _The placement of elements such that edges line up along common rows or columns, or their bodies along a common centre._
 
-Elements on the work are aligned centrally and basically, it does not use any other alignment. This is great because it makes the infographics very easy and understandable but probably it would be better to add some additional alignment to make the infographics more interesting.
+Elements on the work are aligned centrally and basically, it does not use any other alignment. This is great because it makes the infographic very easy and understandable but probably it would be better to add some additional alignment to make the infographic more interesting.
 
-What I would really suggest improving is to use the bigger distance between icons and text in cards. Probably it would be even better to increase the height of the cards so the information in them is not _“compressed”_. This would also fill the empty space in the infographics. For example, have a look at figure 3. Cards displayed on this figure have a problem with theirs icon being stuck to the bottom of the card. How about adding some padding to it?
+What I would really suggest improving is to use the bigger distance between icons and text in cards. Probably it would be even better to increase the height of the cards so the information in them is not _“compressed”_. This would also fill the empty space in the infographic. For example, have a look at figure 3. Cards displayed on this figure have a problem with theirs icon being stuck to the bottom of the card. How about adding some padding to it?
 
 ![Figure 3](../images/p2p/fig4.jpg)
 
