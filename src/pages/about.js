@@ -19,20 +19,16 @@ const About = () => (
         />
         <div className={style.card__desc}>
           <p>Temirzhan</p>
-          <p>19 y.o. fleXer</p>
+          <p>19 y.o. flexer</p>
         </div>
       </div>
       <p>Wassup, bro?</p>
       <p>
         This is the blog created for expressing my own thoughts on different things.
-        I will mainly write for my friends, brothers and family so that 
-        they have a basic understanding 
-        of what happens in my life. It will also be used for the course I 
-        am currently taking in the university.
       </p>
       <p>
-        I am mostly engaged into website development stuff right now. My technology stack
-        includes Node.js, React, Redux, GraphQL, PostgreSQL and TypeScript. 
+        I am mostly engaged into cybersecurity and web dev stuff right now. My technology stack
+        includes Node.js, React, Redux, GraphQL, PostgreSQL and TypeScript.
         Feel free to{' '}
         <a 
           href="https://t.me/ironsoul0"
@@ -42,6 +38,12 @@ const About = () => (
         </a>
         {' '}me if you have any cool project ideas.
       </p>
+      <p>Before:</p>
+      <ul>
+        <li>nFactorial Incubator - 06/2018 - 08/2018</li>
+        <li>Yandex Intern - 05/2019 - 08/2019</li>
+        <li>Ethereum Foundation ZK-summer - 06/2020 - 08/2020</li>
+      </ul>
       <p>Some of the websites I am currently active in:</p>
       <ul>
         <li>
@@ -50,6 +52,14 @@ const About = () => (
             target="_blank"
             rel="noopener noreferrer"
           >Github
+          </a> 
+        </li>
+        <li>
+          <a 
+            href="https://twitter.com/ironsoul0"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Twitter
           </a> 
         </li>
         <li>
