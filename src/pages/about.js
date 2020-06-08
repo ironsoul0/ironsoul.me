@@ -65,10 +65,10 @@ const About = () => (
         </li>
         <li>
           <a 
-            href="https://vk.com/ironsoul0"
+            href="https://www.hackthebox.eu/profile/080415"
             target="_blank"
             rel="noopener noreferrer"
-          >VK
+          >HackTheBox
           </a> 
         </li>
         <li>
@@ -77,14 +77,6 @@ const About = () => (
             target="_blank"
             rel="noopener noreferrer"
           >Telegram
-          </a> 
-        </li>
-        <li>
-          <a 
-            href="https://www.instagram.com/ironsoul0/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >Instagram
           </a> 
         </li>
         <li>
