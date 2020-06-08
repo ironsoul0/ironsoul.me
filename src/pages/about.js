@@ -18,7 +18,7 @@ const About = () => (
           alt="Me"
         />
         <div className={style.card__desc}>
-          <p>Temirzhan</p>
+          <p>Temirzhan a.k.a <i>ironsoul</i></p>
           <p>19 y.o. flexer</p>
         </div>
       </div>
@@ -42,6 +42,7 @@ const About = () => (
       <ul>
         <li>nFactorial Incubator - 06/2018 - 08/2018</li>
         <li>Yandex Intern - 05/2019 - 08/2019</li>
+        <li style={{opacity: 0.55}}>Google, Security STEP Intern - 07/2020 - 09/2020 (cancelled due to COVID-19)</li>
         <li>Ethereum Foundation ZK-summer - 06/2020 - 08/2020</li>
       </ul>
       <p>Some of the websites I am currently active in:</p>
