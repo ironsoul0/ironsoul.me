@@ -54,7 +54,7 @@ const Post = ({
           <>
             <p>{excerpt}</p>
             <Link to={path} className={style.readMore}>
-              Read more →
+              Read more <span>→</span>
             </Link>
           </>
         ) : (

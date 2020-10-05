@@ -54,11 +54,24 @@
 }
 
 .readMore {
+  width: 100%;
   display: inline-block;
   text-decoration: none;
   font-weight: bold;
   margin: 20px 0;
   font-size: 1rem;
+}
+
+.readMore:hover {
+  & span {
+    animation-name: arrowMove;
+    animation-duration: 2s;
+  }
+}
+
+@keyframes arrowMove {
+  50% {margin-left: 24px;}
+  100% {margin-left:0px;}
 }
 
 .postContent {
