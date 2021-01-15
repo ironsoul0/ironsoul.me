@@ -28,8 +28,7 @@ const About = () => (
       </p>
       <p>
         I am mostly engaged into Ethereum and web dev stuff right now. My
-        technology stack includes Node.js, React, Redux and scaffold-eth. Feel
-        free to{" "}
+        technology stack includes Node.js, React and scaffold-eth. Feel free to{" "}
         <a
           href="https://t.me/ironsoul0"
           target="_blank"
