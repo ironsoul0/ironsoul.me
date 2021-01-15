@@ -35,7 +35,7 @@
 .coverImage {
   border-radius: 8px;
   margin-bottom: 40px;
-  box-shadow: 0 15px 30px rgba(0, 0, 0, .1);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
 }
 
 .meta {
@@ -45,7 +45,7 @@
 
 .tags {
   margin-top: 10px;
-  opacity: .5;
+  opacity: 0.5;
 }
 
 .tag {
@@ -70,8 +70,12 @@
 }
 
 @keyframes arrowMove {
-  50% {margin-left: 24px;}
-  100% {margin-left:0px;}
+  50% {
+    margin-left: 24px;
+  }
+  100% {
+    margin-left: 0px;
+  }
 }
 
 .postContent {

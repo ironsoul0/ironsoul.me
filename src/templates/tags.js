@@ -1,13 +1,13 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql } from "gatsby";
 
-import Layout from '../components/layout'
-import Post from '../components/post'
-import Navigation from '../components/navigation'
-import SEO from '../components/seo'
+import Layout from "../components/layout";
+import Post from "../components/post";
+import Navigation from "../components/navigation";
+import SEO from "../components/seo";
 
-import '../styles/layout.css'
+import "../styles/layout.css";
 
 const Tags = ({
   data,
@@ -15,7 +15,7 @@ const Tags = ({
 }) => {
   const {
     allMarkdownRemark: { edges: posts },
-  } = data
+  } = data;
 
   return (
     <>
@@ -38,7 +38,7 @@ const Tags = ({
               excerpt,
               tags,
             },
-          } = node
+          } = node;
 
           return (
             <Post
@@ -51,7 +51,7 @@ const Tags = ({
               coverImage={coverImage}
               excerpt={excerpt || autoExcerpt}
             />
-          )
+          );
         })}
 
         <Navigation
@@ -62,8 +62,8 @@ const Tags = ({
         />
       </Layout>
     </>
-  )
-}
+  );
+};
 
 Tags.propTypes = {
   data: PropTypes.object.isRequired,
@@ -72,7 +72,7 @@ Tags.propTypes = {
     previousPagePath: PropTypes.string,
     tag: PropTypes.string,
   }),
-}
+};
 
 export const postsQuery = graphql`
   query($limit: Int!, $skip: Int!, $tag: String!) {
@@ -105,6 +105,6 @@ export const postsQuery = graphql`
       }
     }
   }
-`
+`;
 
-export default Tags
+export default Tags;
