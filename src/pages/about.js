@@ -48,6 +48,7 @@ const About = () => (
         </li>
         <li>Ethereum Foundation ZK-summer - 06/2020 - 08/2020</li>
         <li>Citadel | Citadel Securities - 05/2021 - 08/2021 (hopefully!)</li>
+        <li>Azimut Labs Frontend Engineer - 01/2021 - Current</li>
       </ul>
       <p>Some of the websites I am currently active in:</p>
       <ul>
