@@ -1,33 +1,13 @@
 ---
 title: "Ethereum - Honeypot"
 path: "/honeypot"
-date: "2021-01-21"
+date: "2021-01-31"
 coverImage: "../images/honeypot/cover.jpg"
 author: "ironsoul"
-excerpt: "How you can catch hackers by putting a bait into your "vulnerable" smart contract 🤭"
+excerpt: "How you can catch hackers by putting a bait into your 'vulnerable' smart contract 🤭"
 tags: ["hacking", "ethereum"]
 ---
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Exploring smart contracts</a></li>
-    <li><a href="#usage">Why the attack fails?</a></li>
-    <li><a href="#usage">Practice</a></li>
-    <li><a href="#contributing">Additional resources</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</detals>
 
 ## About The Project
 
@@ -188,19 +168,19 @@ This is how it looks like for me:
 
 ![img](../images/honeypot/container.png)
 
-My firs.t tab is for a simple user and second tab is for a hacker.
+My first tab is for a simple user and second tab is for a hacker.
 
-Let's s.end some funds to a bank as a simple user using `deposit` function.
+Let's send some funds to a bank as a simple user using `deposit` function.
 
 ![img](../images/honeypot/send-0.04.png)
 
-Our ban.k now has 0.04 ETH locked in it. Let's now try to steal it as a hacker. Navigate to a second tab and enter the `Attack` mode.
+Our bank now has 0.04 ETH locked in it. Let's now try to steal it as a hacker. Navigate to a second tab and enter the `Attack` mode.
 
 ![img](../images/honeypot/attack-mode.png)
 
-Now let.'s execute `attack` function and send `0.01` ETH along with our function call. 
+Now lets execute `attack` function and send `0.01` ETH along with our function call. 
 
-However., after we do it, we get an error saying that we `Failed to send the Ether`.
+However, after we do it, we get an error saying that we `Failed to send the Ether`.
 
 ![img](../images/honeypot/failed-attack.png)
 
