@@ -27,7 +27,7 @@ const About = () => (
         things.
       </p>
       <p>
-        I am mostly engaged into Ethereum and web dev stuff right now. My
+        I am mostly engaged into web dev and Ethereum stuff right now. My
         technology stack includes Node.js, React and scaffold-eth. Feel free to{" "}
         <a
           href="https://t.me/ironsoul0"
@@ -47,7 +47,10 @@ const About = () => (
           COVID-19)
         </li>
         <li>Ethereum Foundation ZK-summer - 06/2020 - 08/2020</li>
-        <li>Citadel | Citadel Securities - 05/2021 - 08/2021 (hopefully!)</li>
+        <li>
+          Citadel | Citadel Securities SWE Intern - 05/2021 - 08/2021
+          (hopefully!)
+        </li>
         <li>Azimut Labs Frontend Engineer - 01/2021 - Current</li>
       </ul>
       <p>Some of the websites I am currently active in:</p>

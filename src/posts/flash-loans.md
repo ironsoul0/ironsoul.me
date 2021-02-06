@@ -4,11 +4,9 @@ path: "/flash-loans"
 date: "2021-02-06"
 coverImage: "../images/flash-loans/cover.jpg"
 author: "ironsoul"
-excerpt: "It is an uncollateralized debt. There is no equivalent in the real world."
+excerpt: "Learn how to borrow any available amount of assets without putting up any collateral and build a simple arbitrage bot that would trade between Uniswap and Sushiswap pools."
 tags: ["aave", "ethereum", "loans"]
 ---
-
-> Learn how to borrow any available amount of assets without putting up any collateral and build a simple arbitrage bot that would trade between Uniswap and Sushiswap pools.
 
 ## About The Project
 
